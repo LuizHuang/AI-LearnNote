@@ -7,3 +7,5 @@ fizzbuzz游戏：
 fizzbuzz_rulebased.py - 传统python编码，简单快速，100%准确
 
 fizzbuzz_logist_regression.py - 基于逻辑回归的机器学习预算
+
+知乎专栏：https://zhuanlan.zhihu.com/p/350805050
